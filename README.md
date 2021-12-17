@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 ### What I always play with
 <p> 
- <script src="https://www.hackthebox.eu/badge/615821"></script>
+  <img src="http://www.hackthebox.eu/badge/image/615821" alt="Hack The Box"> 
 </p>
 
