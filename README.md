@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=sar1m&show_icons=true&count_private=true&hide=prs&theme=dark)
 
-[![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/aarish-khan-44a18a218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aarish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarish-khan-44a18a218/)](https://www.linkedin.com/in/aarish-khan-44a18a218/)
 ### What I always play with
 <p> 
   <img src="http://www.hackthebox.eu/badge/image/615821" alt="Hack The Box"> 
